@@ -1,0 +1,1852 @@
+{
+ "1": [
+  [
+   "Forma de bolo",
+   "Saboneteira",
+   "Guardanapo",
+   "Peneira",
+   "Porta papel toalha"
+  ],
+  [
+   "Prato",
+   "Assadeira",
+   "Faca",
+   "Colher de pau",
+   "Escumadeira"
+  ],
+  [
+   "Vassoura",
+   "Jarra",
+   "LIVRE",
+   "Frigideira",
+   "Abridor de lata"
+  ],
+  [
+   "Pá de lixo",
+   "Xícara",
+   "Ralador",
+   "Prendedor de roupa",
+   "Porta tempero"
+  ],
+  [
+   "Açucareiro",
+   "Almofada",
+   "Concha",
+   "Dispenser",
+   "Organizador"
+  ]
+ ],
+ "2": [
+  [
+   "Prato",
+   "Xícara",
+   "Ralador",
+   "Açucareiro",
+   "Dispenser"
+  ],
+  [
+   "Pá de lixo",
+   "Escumadeira",
+   "Porta tempero",
+   "Saboneteira",
+   "Colher de pau"
+  ],
+  [
+   "Faca",
+   "Bacia",
+   "LIVRE",
+   "Saleiro",
+   "Pote"
+  ],
+  [
+   "Rodo",
+   "Concha",
+   "Cesto de roupa",
+   "Travessa",
+   "Pano de prato"
+  ],
+  [
+   "Toalha de mesa",
+   "Prendedor de roupa",
+   "Avental",
+   "Talher",
+   "Garrafa térmica"
+  ]
+ ],
+ "3": [
+  [
+   "Talher",
+   "Vassoura",
+   "Tábua",
+   "Saleiro",
+   "Forma de bolo"
+  ],
+  [
+   "Travessa",
+   "Lixeira",
+   "Saca rolhas",
+   "Pote",
+   "Peneira"
+  ],
+  [
+   "Porta tempero",
+   "Escumadeira",
+   "LIVRE",
+   "Pá de lixo",
+   "Luva térmica"
+  ],
+  [
+   "Forma de pão",
+   "Escorredor de louça",
+   "Faca",
+   "Cesto organizador",
+   "Abridor de lata"
+  ],
+  [
+   "Cabide",
+   "Almofada",
+   "Xícara",
+   "Açucareiro",
+   "Balde"
+  ]
+ ],
+ "4": [
+  [
+   "Copo",
+   "Travessa",
+   "Tigela",
+   "Saboneteira",
+   "Organizador"
+  ],
+  [
+   "Saca rolhas",
+   "Avental",
+   "Bule",
+   "Tábua",
+   "Escorredor de louça"
+  ],
+  [
+   "Vassoura",
+   "Pote",
+   "LIVRE",
+   "Toalha de mesa",
+   "Concha"
+  ],
+  [
+   "Bacia",
+   "Dispenser",
+   "Almofada",
+   "Abridor de lata",
+   "Panela"
+  ],
+  [
+   "Xícara",
+   "Rodo",
+   "Forma de pão",
+   "Pá de lixo",
+   "Prendedor de roupa"
+  ]
+ ],
+ "5": [
+  [
+   "Toalha de mesa",
+   "Panela",
+   "Prato",
+   "Saleiro",
+   "Talher"
+  ],
+  [
+   "Porta papel toalha",
+   "Balde",
+   "Prendedor de roupa",
+   "Xícara",
+   "Frigideira"
+  ],
+  [
+   "Vassoura",
+   "Guardanapo",
+   "LIVRE",
+   "Pires",
+   "Escumadeira"
+  ],
+  [
+   "Ralador",
+   "Cabide",
+   "Assadeira",
+   "Escorredor de louça",
+   "Rodo"
+  ],
+  [
+   "Pote",
+   "Porta tempero",
+   "Luva térmica",
+   "Abridor de lata",
+   "Bule"
+  ]
+ ],
+ "6": [
+  [
+   "Bacia",
+   "Cabide",
+   "Ralador",
+   "Assadeira",
+   "Luva térmica"
+  ],
+  [
+   "Abridor de lata",
+   "Pires",
+   "Cesto organizador",
+   "Pote",
+   "Travessa"
+  ],
+  [
+   "Prato",
+   "Escumadeira",
+   "LIVRE",
+   "Porta papel toalha",
+   "Faca"
+  ],
+  [
+   "Concha",
+   "Balde",
+   "Dispenser",
+   "Copo",
+   "Forma de pão"
+  ],
+  [
+   "Organizador",
+   "Saboneteira",
+   "Rodo",
+   "Forma de bolo",
+   "Porta tempero"
+  ]
+ ],
+ "7": [
+  [
+   "Pá de lixo",
+   "Cesto de roupa",
+   "Tapete",
+   "Escorredor de louça",
+   "Açucareiro"
+  ],
+  [
+   "Xícara",
+   "Porta papel toalha",
+   "Tigela",
+   "Balde",
+   "Lixeira"
+  ],
+  [
+   "Garrafa térmica",
+   "Forma de bolo",
+   "LIVRE",
+   "Peneira",
+   "Copo"
+  ],
+  [
+   "Tábua",
+   "Prato",
+   "Saboneteira",
+   "Saca rolhas",
+   "Vassoura"
+  ],
+  [
+   "Porta tempero",
+   "Bacia",
+   "Colher de pau",
+   "Frigideira",
+   "Saleiro"
+  ]
+ ],
+ "8": [
+  [
+   "Organizador",
+   "Escumadeira",
+   "Prato",
+   "Talher",
+   "Açucareiro"
+  ],
+  [
+   "Panela",
+   "Guardanapo",
+   "Rodo",
+   "Porta tempero",
+   "Balde"
+  ],
+  [
+   "Concha",
+   "Vassoura",
+   "LIVRE",
+   "Forma de pão",
+   "Cabide"
+  ],
+  [
+   "Tapete",
+   "Bule",
+   "Assadeira",
+   "Faca",
+   "Saca rolhas"
+  ],
+  [
+   "Travessa",
+   "Almofada",
+   "Peneira",
+   "Xícara",
+   "Cesto de roupa"
+  ]
+ ],
+ "9": [
+  [
+   "Jarra",
+   "Saca rolhas",
+   "Guardanapo",
+   "Prato",
+   "Rodo"
+  ],
+  [
+   "Saleiro",
+   "Forma de bolo",
+   "Cesto organizador",
+   "Pá de lixo",
+   "Pires"
+  ],
+  [
+   "Copo",
+   "Assadeira",
+   "LIVRE",
+   "Organizador",
+   "Dispenser"
+  ],
+  [
+   "Prendedor de roupa",
+   "Panela",
+   "Vassoura",
+   "Tapete",
+   "Tigela"
+  ],
+  [
+   "Colher de pau",
+   "Escumadeira",
+   "Talher",
+   "Faca",
+   "Lixeira"
+  ]
+ ],
+ "10": [
+  [
+   "Tigela",
+   "Almofada",
+   "Bacia",
+   "Luva térmica",
+   "Pires"
+  ],
+  [
+   "Abridor de lata",
+   "Guardanapo",
+   "Avental",
+   "Assadeira",
+   "Cesto organizador"
+  ],
+  [
+   "Tapete",
+   "Ralador",
+   "LIVRE",
+   "Escumadeira",
+   "Forma de pão"
+  ],
+  [
+   "Pá de lixo",
+   "Pano de prato",
+   "Bule",
+   "Frigideira",
+   "Jarra"
+  ],
+  [
+   "Concha",
+   "Prato",
+   "Vassoura",
+   "Forma de bolo",
+   "Travessa"
+  ]
+ ],
+ "11": [
+  [
+   "Forma de bolo",
+   "Escorredor de louça",
+   "Cesto organizador",
+   "Peneira",
+   "Organizador"
+  ],
+  [
+   "Panela",
+   "Rodo",
+   "Pá de lixo",
+   "Toalha de mesa",
+   "Almofada"
+  ],
+  [
+   "Tigela",
+   "Guardanapo",
+   "LIVRE",
+   "Escumadeira",
+   "Xícara"
+  ],
+  [
+   "Bacia",
+   "Saca rolhas",
+   "Bule",
+   "Prato",
+   "Cesto de roupa"
+  ],
+  [
+   "Pote",
+   "Pano de prato",
+   "Saboneteira",
+   "Pires",
+   "Açucareiro"
+  ]
+ ],
+ "12": [
+  [
+   "Cesto organizador",
+   "Organizador",
+   "Escorredor de louça",
+   "Avental",
+   "Prato"
+  ],
+  [
+   "Forma de pão",
+   "Pires",
+   "Dispenser",
+   "Tigela",
+   "Tapete"
+  ],
+  [
+   "Forma de bolo",
+   "Lixeira",
+   "LIVRE",
+   "Prendedor de roupa",
+   "Pano de prato"
+  ],
+  [
+   "Balde",
+   "Peneira",
+   "Colher de pau",
+   "Escumadeira",
+   "Garrafa térmica"
+  ],
+  [
+   "Bule",
+   "Porta papel toalha",
+   "Cabide",
+   "Xícara",
+   "Assadeira"
+  ]
+ ],
+ "13": [
+  [
+   "Ralador",
+   "Travessa",
+   "Toalha de mesa",
+   "Cesto organizador",
+   "Faca"
+  ],
+  [
+   "Abridor de lata",
+   "Tigela",
+   "Pá de lixo",
+   "Porta papel toalha",
+   "Cabide"
+  ],
+  [
+   "Saleiro",
+   "Xícara",
+   "LIVRE",
+   "Forma de pão",
+   "Copo"
+  ],
+  [
+   "Dispenser",
+   "Pote",
+   "Assadeira",
+   "Rodo",
+   "Prendedor de roupa"
+  ],
+  [
+   "Organizador",
+   "Forma de bolo",
+   "Saboneteira",
+   "Escorredor de louça",
+   "Escumadeira"
+  ]
+ ],
+ "14": [
+  [
+   "Escorredor de louça",
+   "Avental",
+   "Copo",
+   "Porta papel toalha",
+   "Pano de prato"
+  ],
+  [
+   "Saboneteira",
+   "Peneira",
+   "Bule",
+   "Talher",
+   "Panela"
+  ],
+  [
+   "Cabide",
+   "Cesto organizador",
+   "LIVRE",
+   "Pires",
+   "Porta tempero"
+  ],
+  [
+   "Balde",
+   "Forma de bolo",
+   "Frigideira",
+   "Almofada",
+   "Bacia"
+  ],
+  [
+   "Tapete",
+   "Forma de pão",
+   "Saleiro",
+   "Cesto de roupa",
+   "Guardanapo"
+  ]
+ ],
+ "15": [
+  [
+   "Pano de prato",
+   "Jarra",
+   "Forma de pão",
+   "Cesto organizador",
+   "Avental"
+  ],
+  [
+   "Frigideira",
+   "Travessa",
+   "Peneira",
+   "Prendedor de roupa",
+   "Abridor de lata"
+  ],
+  [
+   "Vassoura",
+   "Pires",
+   "LIVRE",
+   "Faca",
+   "Toalha de mesa"
+  ],
+  [
+   "Xícara",
+   "Almofada",
+   "Copo",
+   "Porta tempero",
+   "Colher de pau"
+  ],
+  [
+   "Cabide",
+   "Forma de bolo",
+   "Panela",
+   "Saca rolhas",
+   "Balde"
+  ]
+ ],
+ "16": [
+  [
+   "Travessa",
+   "Pano de prato",
+   "Tigela",
+   "Frigideira",
+   "Prato"
+  ],
+  [
+   "Luva térmica",
+   "Balde",
+   "Porta papel toalha",
+   "Saboneteira",
+   "Dispenser"
+  ],
+  [
+   "Bule",
+   "Guardanapo",
+   "LIVRE",
+   "Açucareiro",
+   "Organizador"
+  ],
+  [
+   "Pires",
+   "Talher",
+   "Jarra",
+   "Concha",
+   "Rodo"
+  ],
+  [
+   "Abridor de lata",
+   "Almofada",
+   "Bacia",
+   "Peneira",
+   "Escumadeira"
+  ]
+ ],
+ "17": [
+  [
+   "Assadeira",
+   "Tigela",
+   "Cesto organizador",
+   "Faca",
+   "Abridor de lata"
+  ],
+  [
+   "Saca rolhas",
+   "Travessa",
+   "Balde",
+   "Pano de prato",
+   "Pires"
+  ],
+  [
+   "Bule",
+   "Frigideira",
+   "LIVRE",
+   "Jarra",
+   "Lixeira"
+  ],
+  [
+   "Organizador",
+   "Porta papel toalha",
+   "Almofada",
+   "Açucareiro",
+   "Colher de pau"
+  ],
+  [
+   "Forma de pão",
+   "Peneira",
+   "Xícara",
+   "Guardanapo",
+   "Cesto de roupa"
+  ]
+ ],
+ "18": [
+  [
+   "Copo",
+   "Cesto organizador",
+   "Guardanapo",
+   "Escumadeira",
+   "Vassoura"
+  ],
+  [
+   "Bacia",
+   "Pires",
+   "Bule",
+   "Forma de pão",
+   "Porta papel toalha"
+  ],
+  [
+   "Pano de prato",
+   "Almofada",
+   "LIVRE",
+   "Tapete",
+   "Tigela"
+  ],
+  [
+   "Jarra",
+   "Toalha de mesa",
+   "Pá de lixo",
+   "Ralador",
+   "Forma de bolo"
+  ],
+  [
+   "Saca rolhas",
+   "Saboneteira",
+   "Pote",
+   "Saleiro",
+   "Açucareiro"
+  ]
+ ],
+ "19": [
+  [
+   "Forma de pão",
+   "Saleiro",
+   "Travessa",
+   "Lixeira",
+   "Saca rolhas"
+  ],
+  [
+   "Copo",
+   "Pires",
+   "Cesto de roupa",
+   "Faca",
+   "Tapete"
+  ],
+  [
+   "Escorredor de louça",
+   "Concha",
+   "LIVRE",
+   "Assadeira",
+   "Açucareiro"
+  ],
+  [
+   "Abridor de lata",
+   "Panela",
+   "Pá de lixo",
+   "Cesto organizador",
+   "Avental"
+  ],
+  [
+   "Prendedor de roupa",
+   "Garrafa térmica",
+   "Bacia",
+   "Prato",
+   "Escumadeira"
+  ]
+ ],
+ "20": [
+  [
+   "Avental",
+   "Tábua",
+   "Assadeira",
+   "Saboneteira",
+   "Saleiro"
+  ],
+  [
+   "Guardanapo",
+   "Escumadeira",
+   "Cesto de roupa",
+   "Dispenser",
+   "Travessa"
+  ],
+  [
+   "Prendedor de roupa",
+   "Frigideira",
+   "LIVRE",
+   "Abridor de lata",
+   "Panela"
+  ],
+  [
+   "Tapete",
+   "Peneira",
+   "Talher",
+   "Saca rolhas",
+   "Colher de pau"
+  ],
+  [
+   "Vassoura",
+   "Concha",
+   "Balde",
+   "Lixeira",
+   "Tigela"
+  ]
+ ],
+ "21": [
+  [
+   "Pires",
+   "Açucareiro",
+   "Cesto de roupa",
+   "Forma de bolo",
+   "Colher de pau"
+  ],
+  [
+   "Cesto organizador",
+   "Prato",
+   "Escorredor de louça",
+   "Tapete",
+   "Porta tempero"
+  ],
+  [
+   "Organizador",
+   "Assadeira",
+   "LIVRE",
+   "Bule",
+   "Luva térmica"
+  ],
+  [
+   "Frigideira",
+   "Xícara",
+   "Saca rolhas",
+   "Jarra",
+   "Pá de lixo"
+  ],
+  [
+   "Garrafa térmica",
+   "Lixeira",
+   "Avental",
+   "Forma de pão",
+   "Ralador"
+  ]
+ ],
+ "22": [
+  [
+   "Xícara",
+   "Prato",
+   "Pá de lixo",
+   "Panela",
+   "Saca rolhas"
+  ],
+  [
+   "Forma de bolo",
+   "Garrafa térmica",
+   "Tigela",
+   "Jarra",
+   "Forma de pão"
+  ],
+  [
+   "Luva térmica",
+   "Organizador",
+   "LIVRE",
+   "Avental",
+   "Saleiro"
+  ],
+  [
+   "Lixeira",
+   "Ralador",
+   "Peneira",
+   "Porta papel toalha",
+   "Escumadeira"
+  ],
+  [
+   "Cesto organizador",
+   "Colher de pau",
+   "Rodo",
+   "Vassoura",
+   "Pires"
+  ]
+ ],
+ "23": [
+  [
+   "Vassoura",
+   "Avental",
+   "Forma de pão",
+   "Balde",
+   "Pá de lixo"
+  ],
+  [
+   "Ralador",
+   "Concha",
+   "Tapete",
+   "Saca rolhas",
+   "Cabide"
+  ],
+  [
+   "Bacia",
+   "Jarra",
+   "LIVRE",
+   "Almofada",
+   "Toalha de mesa"
+  ],
+  [
+   "Organizador",
+   "Lixeira",
+   "Saleiro",
+   "Bule",
+   "Abridor de lata"
+  ],
+  [
+   "Garrafa térmica",
+   "Cesto organizador",
+   "Tábua",
+   "Colher de pau",
+   "Escumadeira"
+  ]
+ ],
+ "24": [
+  [
+   "Tapete",
+   "Pires",
+   "Ralador",
+   "Copo",
+   "Vassoura"
+  ],
+  [
+   "Avental",
+   "Assadeira",
+   "Cesto organizador",
+   "Escorredor de louça",
+   "Xícara"
+  ],
+  [
+   "Pano de prato",
+   "Prato",
+   "LIVRE",
+   "Açucareiro",
+   "Faca"
+  ],
+  [
+   "Rodo",
+   "Lixeira",
+   "Bacia",
+   "Forma de bolo",
+   "Porta papel toalha"
+  ],
+  [
+   "Abridor de lata",
+   "Forma de pão",
+   "Tábua",
+   "Prendedor de roupa",
+   "Pá de lixo"
+  ]
+ ],
+ "25": [
+  [
+   "Prendedor de roupa",
+   "Forma de bolo",
+   "Cesto organizador",
+   "Copo",
+   "Tigela"
+  ],
+  [
+   "Abridor de lata",
+   "Escumadeira",
+   "Saca rolhas",
+   "Assadeira",
+   "Ralador"
+  ],
+  [
+   "Prato",
+   "Garrafa térmica",
+   "LIVRE",
+   "Saboneteira",
+   "Vassoura"
+  ],
+  [
+   "Xícara",
+   "Concha",
+   "Bule",
+   "Rodo",
+   "Travessa"
+  ],
+  [
+   "Peneira",
+   "Colher de pau",
+   "Talher",
+   "Guardanapo",
+   "Frigideira"
+  ]
+ ],
+ "26": [
+  [
+   "Forma de pão",
+   "Concha",
+   "Prendedor de roupa",
+   "Forma de bolo",
+   "Dispenser"
+  ],
+  [
+   "Tapete",
+   "Cesto de roupa",
+   "Faca",
+   "Avental",
+   "Guardanapo"
+  ],
+  [
+   "Bule",
+   "Garrafa térmica",
+   "LIVRE",
+   "Abridor de lata",
+   "Bacia"
+  ],
+  [
+   "Porta papel toalha",
+   "Pano de prato",
+   "Saca rolhas",
+   "Balde",
+   "Escorredor de louça"
+  ],
+  [
+   "Panela",
+   "Assadeira",
+   "Pires",
+   "Organizador",
+   "Talher"
+  ]
+ ],
+ "27": [
+  [
+   "Forma de pão",
+   "Pote",
+   "Tapete",
+   "Avental",
+   "Saca rolhas"
+  ],
+  [
+   "Prato",
+   "Pires",
+   "Saleiro",
+   "Faca",
+   "Travessa"
+  ],
+  [
+   "Organizador",
+   "Bacia",
+   "LIVRE",
+   "Porta tempero",
+   "Garrafa térmica"
+  ],
+  [
+   "Cesto organizador",
+   "Toalha de mesa",
+   "Colher de pau",
+   "Pano de prato",
+   "Xícara"
+  ],
+  [
+   "Jarra",
+   "Escumadeira",
+   "Tigela",
+   "Cesto de roupa",
+   "Talher"
+  ]
+ ],
+ "28": [
+  [
+   "Lixeira",
+   "Ralador",
+   "Avental",
+   "Escorredor de louça",
+   "Concha"
+  ],
+  [
+   "Cabide",
+   "Bule",
+   "Faca",
+   "Escumadeira",
+   "Dispenser"
+  ],
+  [
+   "Toalha de mesa",
+   "Forma de pão",
+   "LIVRE",
+   "Prato",
+   "Cesto de roupa"
+  ],
+  [
+   "Bacia",
+   "Cesto organizador",
+   "Balde",
+   "Talher",
+   "Travessa"
+  ],
+  [
+   "Prendedor de roupa",
+   "Almofada",
+   "Rodo",
+   "Abridor de lata",
+   "Pires"
+  ]
+ ],
+ "29": [
+  [
+   "Talher",
+   "Vassoura",
+   "Cabide",
+   "Colher de pau",
+   "Frigideira"
+  ],
+  [
+   "Abridor de lata",
+   "Pires",
+   "Prendedor de roupa",
+   "Bacia",
+   "Faca"
+  ],
+  [
+   "Almofada",
+   "Jarra",
+   "LIVRE",
+   "Concha",
+   "Balde"
+  ],
+  [
+   "Luva térmica",
+   "Forma de pão",
+   "Avental",
+   "Pote",
+   "Forma de bolo"
+  ],
+  [
+   "Peneira",
+   "Copo",
+   "Garrafa térmica",
+   "Escumadeira",
+   "Escorredor de louça"
+  ]
+ ],
+ "30": [
+  [
+   "Escumadeira",
+   "Forma de pão",
+   "Pote",
+   "Ralador",
+   "Vassoura"
+  ],
+  [
+   "Organizador",
+   "Pires",
+   "Bacia",
+   "Toalha de mesa",
+   "Assadeira"
+  ],
+  [
+   "Porta papel toalha",
+   "Prato",
+   "LIVRE",
+   "Copo",
+   "Concha"
+  ],
+  [
+   "Peneira",
+   "Frigideira",
+   "Abridor de lata",
+   "Tapete",
+   "Pá de lixo"
+  ],
+  [
+   "Forma de bolo",
+   "Dispenser",
+   "Almofada",
+   "Bule",
+   "Talher"
+  ]
+ ],
+ "31": [
+  [
+   "Talher",
+   "Tapete",
+   "Pires",
+   "Avental",
+   "Toalha de mesa"
+  ],
+  [
+   "Prendedor de roupa",
+   "Ralador",
+   "Saca rolhas",
+   "Cabide",
+   "Cesto organizador"
+  ],
+  [
+   "Xícara",
+   "Forma de bolo",
+   "LIVRE",
+   "Assadeira",
+   "Dispenser"
+  ],
+  [
+   "Pá de lixo",
+   "Forma de pão",
+   "Almofada",
+   "Peneira",
+   "Luva térmica"
+  ],
+  [
+   "Saboneteira",
+   "Concha",
+   "Abridor de lata",
+   "Prato",
+   "Saleiro"
+  ]
+ ],
+ "32": [
+  [
+   "Jarra",
+   "Frigideira",
+   "Rodo",
+   "Prendedor de roupa",
+   "Faca"
+  ],
+  [
+   "Porta tempero",
+   "Cesto de roupa",
+   "Pano de prato",
+   "Toalha de mesa",
+   "Açucareiro"
+  ],
+  [
+   "Saleiro",
+   "Ralador",
+   "LIVRE",
+   "Escumadeira",
+   "Tigela"
+  ],
+  [
+   "Vassoura",
+   "Almofada",
+   "Pá de lixo",
+   "Tapete",
+   "Forma de bolo"
+  ],
+  [
+   "Travessa",
+   "Concha",
+   "Guardanapo",
+   "Tábua",
+   "Saboneteira"
+  ]
+ ],
+ "33": [
+  [
+   "Escorredor de louça",
+   "Balde",
+   "Colher de pau",
+   "Prendedor de roupa",
+   "Assadeira"
+  ],
+  [
+   "Escumadeira",
+   "Pires",
+   "Cesto organizador",
+   "Rodo",
+   "Lixeira"
+  ],
+  [
+   "Avental",
+   "Tigela",
+   "LIVRE",
+   "Vassoura",
+   "Almofada"
+  ],
+  [
+   "Cesto de roupa",
+   "Copo",
+   "Porta tempero",
+   "Cabide",
+   "Jarra"
+  ],
+  [
+   "Tábua",
+   "Forma de bolo",
+   "Organizador",
+   "Peneira",
+   "Guardanapo"
+  ]
+ ],
+ "34": [
+  [
+   "Tigela",
+   "Avental",
+   "Prato",
+   "Cabide",
+   "Cesto de roupa"
+  ],
+  [
+   "Panela",
+   "Porta tempero",
+   "Bacia",
+   "Forma de bolo",
+   "Garrafa térmica"
+  ],
+  [
+   "Vassoura",
+   "Saleiro",
+   "LIVRE",
+   "Guardanapo",
+   "Balde"
+  ],
+  [
+   "Luva térmica",
+   "Forma de pão",
+   "Colher de pau",
+   "Talher",
+   "Organizador"
+  ],
+  [
+   "Pá de lixo",
+   "Ralador",
+   "Frigideira",
+   "Xícara",
+   "Copo"
+  ]
+ ],
+ "35": [
+  [
+   "Pote",
+   "Assadeira",
+   "Tapete",
+   "Cesto organizador",
+   "Ralador"
+  ],
+  [
+   "Pá de lixo",
+   "Abridor de lata",
+   "Saca rolhas",
+   "Almofada",
+   "Prato"
+  ],
+  [
+   "Concha",
+   "Dispenser",
+   "LIVRE",
+   "Lixeira",
+   "Saboneteira"
+  ],
+  [
+   "Bacia",
+   "Forma de pão",
+   "Organizador",
+   "Tábua",
+   "Xícara"
+  ],
+  [
+   "Talher",
+   "Cabide",
+   "Cesto de roupa",
+   "Travessa",
+   "Escorredor de louça"
+  ]
+ ],
+ "36": [
+  [
+   "Xícara",
+   "Pote",
+   "Assadeira",
+   "Saleiro",
+   "Concha"
+  ],
+  [
+   "Pires",
+   "Abridor de lata",
+   "Forma de pão",
+   "Copo",
+   "Toalha de mesa"
+  ],
+  [
+   "Colher de pau",
+   "Tigela",
+   "LIVRE",
+   "Travessa",
+   "Rodo"
+  ],
+  [
+   "Tábua",
+   "Prato",
+   "Organizador",
+   "Bacia",
+   "Tapete"
+  ],
+  [
+   "Peneira",
+   "Escorredor de louça",
+   "Cesto organizador",
+   "Balde",
+   "Saboneteira"
+  ]
+ ],
+ "37": [
+  [
+   "Faca",
+   "Dispenser",
+   "Rodo",
+   "Organizador",
+   "Concha"
+  ],
+  [
+   "Pires",
+   "Frigideira",
+   "Toalha de mesa",
+   "Abridor de lata",
+   "Saboneteira"
+  ],
+  [
+   "Tapete",
+   "Travessa",
+   "LIVRE",
+   "Forma de bolo",
+   "Saleiro"
+  ],
+  [
+   "Pote",
+   "Escorredor de louça",
+   "Pá de lixo",
+   "Colher de pau",
+   "Almofada"
+  ],
+  [
+   "Balde",
+   "Tigela",
+   "Bule",
+   "Cabide",
+   "Pano de prato"
+  ]
+ ],
+ "38": [
+  [
+   "Peneira",
+   "Bule",
+   "Prato",
+   "Pote",
+   "Ralador"
+  ],
+  [
+   "Garrafa térmica",
+   "Forma de pão",
+   "Porta tempero",
+   "Toalha de mesa",
+   "Bacia"
+  ],
+  [
+   "Saleiro",
+   "Vassoura",
+   "LIVRE",
+   "Saca rolhas",
+   "Tapete"
+  ],
+  [
+   "Cabide",
+   "Rodo",
+   "Balde",
+   "Dispenser",
+   "Avental"
+  ],
+  [
+   "Pá de lixo",
+   "Abridor de lata",
+   "Pano de prato",
+   "Cesto de roupa",
+   "Assadeira"
+  ]
+ ],
+ "39": [
+  [
+   "Cesto organizador",
+   "Rodo",
+   "Pires",
+   "Luva térmica",
+   "Toalha de mesa"
+  ],
+  [
+   "Ralador",
+   "Colher de pau",
+   "Guardanapo",
+   "Organizador",
+   "Vassoura"
+  ],
+  [
+   "Pano de prato",
+   "Saboneteira",
+   "LIVRE",
+   "Tábua",
+   "Dispenser"
+  ],
+  [
+   "Avental",
+   "Abridor de lata",
+   "Faca",
+   "Frigideira",
+   "Assadeira"
+  ],
+  [
+   "Açucareiro",
+   "Xícara",
+   "Concha",
+   "Cabide",
+   "Copo"
+  ]
+ ],
+ "40": [
+  [
+   "Açucareiro",
+   "Cesto de roupa",
+   "Avental",
+   "Porta tempero",
+   "Rodo"
+  ],
+  [
+   "Dispenser",
+   "Escorredor de louça",
+   "Forma de pão",
+   "Talher",
+   "Tábua"
+  ],
+  [
+   "Frigideira",
+   "Garrafa térmica",
+   "LIVRE",
+   "Lixeira",
+   "Almofada"
+  ],
+  [
+   "Escumadeira",
+   "Abridor de lata",
+   "Guardanapo",
+   "Panela",
+   "Pires"
+  ],
+  [
+   "Colher de pau",
+   "Organizador",
+   "Forma de bolo",
+   "Prendedor de roupa",
+   "Peneira"
+  ]
+ ],
+ "41": [
+  [
+   "Faca",
+   "Cesto organizador",
+   "Almofada",
+   "Prato",
+   "Escorredor de louça"
+  ],
+  [
+   "Prendedor de roupa",
+   "Frigideira",
+   "Travessa",
+   "Tapete",
+   "Saboneteira"
+  ],
+  [
+   "Pires",
+   "Porta papel toalha",
+   "LIVRE",
+   "Concha",
+   "Luva térmica"
+  ],
+  [
+   "Tábua",
+   "Organizador",
+   "Guardanapo",
+   "Rodo",
+   "Balde"
+  ],
+  [
+   "Forma de pão",
+   "Talher",
+   "Porta tempero",
+   "Pá de lixo",
+   "Vassoura"
+  ]
+ ],
+ "42": [
+  [
+   "Travessa",
+   "Jarra",
+   "Lixeira",
+   "Garrafa térmica",
+   "Concha"
+  ],
+  [
+   "Pote",
+   "Cesto de roupa",
+   "Cesto organizador",
+   "Tábua",
+   "Xícara"
+  ],
+  [
+   "Pano de prato",
+   "Forma de bolo",
+   "LIVRE",
+   "Pá de lixo",
+   "Toalha de mesa"
+  ],
+  [
+   "Colher de pau",
+   "Escorredor de louça",
+   "Pires",
+   "Ralador",
+   "Prendedor de roupa"
+  ],
+  [
+   "Porta tempero",
+   "Saboneteira",
+   "Dispenser",
+   "Assadeira",
+   "Tigela"
+  ]
+ ],
+ "43": [
+  [
+   "Talher",
+   "Escorredor de louça",
+   "Tigela",
+   "Xícara",
+   "Pá de lixo"
+  ],
+  [
+   "Organizador",
+   "Faca",
+   "Balde",
+   "Rodo",
+   "Almofada"
+  ],
+  [
+   "Bacia",
+   "Pano de prato",
+   "LIVRE",
+   "Tábua",
+   "Cabide"
+  ],
+  [
+   "Saleiro",
+   "Açucareiro",
+   "Escumadeira",
+   "Cesto organizador",
+   "Assadeira"
+  ],
+  [
+   "Dispenser",
+   "Porta papel toalha",
+   "Toalha de mesa",
+   "Prato",
+   "Abridor de lata"
+  ]
+ ],
+ "44": [
+  [
+   "Organizador",
+   "Vassoura",
+   "Rodo",
+   "Pá de lixo",
+   "Abridor de lata"
+  ],
+  [
+   "Travessa",
+   "Garrafa térmica",
+   "Porta tempero",
+   "Tigela",
+   "Saleiro"
+  ],
+  [
+   "Talher",
+   "Luva térmica",
+   "LIVRE",
+   "Guardanapo",
+   "Ralador"
+  ],
+  [
+   "Assadeira",
+   "Colher de pau",
+   "Xícara",
+   "Prendedor de roupa",
+   "Toalha de mesa"
+  ],
+  [
+   "Tapete",
+   "Bacia",
+   "Escumadeira",
+   "Bule",
+   "Balde"
+  ]
+ ],
+ "45": [
+  [
+   "Organizador",
+   "Assadeira",
+   "Pote",
+   "Prendedor de roupa",
+   "Colher de pau"
+  ],
+  [
+   "Vassoura",
+   "Faca",
+   "Forma de bolo",
+   "Escumadeira",
+   "Balde"
+  ],
+  [
+   "Pá de lixo",
+   "Copo",
+   "LIVRE",
+   "Forma de pão",
+   "Tigela"
+  ],
+  [
+   "Saboneteira",
+   "Dispenser",
+   "Guardanapo",
+   "Lixeira",
+   "Bule"
+  ],
+  [
+   "Saleiro",
+   "Porta papel toalha",
+   "Rodo",
+   "Travessa",
+   "Tábua"
+  ]
+ ],
+ "46": [
+  [
+   "Cabide",
+   "Colher de pau",
+   "Peneira",
+   "Balde",
+   "Frigideira"
+  ],
+  [
+   "Avental",
+   "Tapete",
+   "Ralador",
+   "Prato",
+   "Luva térmica"
+  ],
+  [
+   "Lixeira",
+   "Tábua",
+   "LIVRE",
+   "Escorredor de louça",
+   "Almofada"
+  ],
+  [
+   "Dispenser",
+   "Abridor de lata",
+   "Açucareiro",
+   "Cesto de roupa",
+   "Saboneteira"
+  ],
+  [
+   "Guardanapo",
+   "Bule",
+   "Porta tempero",
+   "Garrafa térmica",
+   "Saca rolhas"
+  ]
+ ],
+ "47": [
+  [
+   "Concha",
+   "Panela",
+   "Pano de prato",
+   "Bacia",
+   "Abridor de lata"
+  ],
+  [
+   "Tapete",
+   "Forma de pão",
+   "Escumadeira",
+   "Dispenser",
+   "Xícara"
+  ],
+  [
+   "Lixeira",
+   "Avental",
+   "LIVRE",
+   "Cesto de roupa",
+   "Escorredor de louça"
+  ],
+  [
+   "Tábua",
+   "Balde",
+   "Jarra",
+   "Saboneteira",
+   "Copo"
+  ],
+  [
+   "Garrafa térmica",
+   "Açucareiro",
+   "Porta papel toalha",
+   "Tigela",
+   "Assadeira"
+  ]
+ ],
+ "48": [
+  [
+   "Pano de prato",
+   "Tigela",
+   "Prato",
+   "Cabide",
+   "Vassoura"
+  ],
+  [
+   "Travessa",
+   "Assadeira",
+   "Dispenser",
+   "Bacia",
+   "Saleiro"
+  ],
+  [
+   "Copo",
+   "Balde",
+   "LIVRE",
+   "Toalha de mesa",
+   "Organizador"
+  ],
+  [
+   "Cesto organizador",
+   "Luva térmica",
+   "Faca",
+   "Talher",
+   "Jarra"
+  ],
+  [
+   "Pá de lixo",
+   "Açucareiro",
+   "Almofada",
+   "Garrafa térmica",
+   "Escumadeira"
+  ]
+ ],
+ "49": [
+  [
+   "Frigideira",
+   "Avental",
+   "Pires",
+   "Escumadeira",
+   "Tapete"
+  ],
+  [
+   "Porta papel toalha",
+   "Forma de bolo",
+   "Bule",
+   "Toalha de mesa",
+   "Organizador"
+  ],
+  [
+   "Lixeira",
+   "Saboneteira",
+   "LIVRE",
+   "Açucareiro",
+   "Saleiro"
+  ],
+  [
+   "Cesto de roupa",
+   "Guardanapo",
+   "Luva térmica",
+   "Rodo",
+   "Escorredor de louça"
+  ],
+  [
+   "Porta tempero",
+   "Pá de lixo",
+   "Cesto organizador",
+   "Tigela",
+   "Assadeira"
+  ]
+ ],
+ "50": [
+  [
+   "Tigela",
+   "Xícara",
+   "Avental",
+   "Saleiro",
+   "Copo"
+  ],
+  [
+   "Tábua",
+   "Tapete",
+   "Peneira",
+   "Prendedor de roupa",
+   "Pote"
+  ],
+  [
+   "Jarra",
+   "Balde",
+   "LIVRE",
+   "Cesto organizador",
+   "Pá de lixo"
+  ],
+  [
+   "Porta tempero",
+   "Porta papel toalha",
+   "Organizador",
+   "Saboneteira",
+   "Almofada"
+  ],
+  [
+   "Cesto de roupa",
+   "Colher de pau",
+   "Ralador",
+   "Faca",
+   "Pano de prato"
+  ]
+ ]
+}
