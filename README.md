@@ -11,6 +11,7 @@ O app usa as **50 cartelas impressas** do evento. Cada uma tem uma grade 5×5 co
 - **Dois modos de vitória**:
   - *Cartela cheia*: todas as 24 palavras marcadas.
   - *Linha, coluna ou diagonal*: qualquer uma das 12 linhas possíveis completa.
+- **Roleta de desempate**: quando duas ou mais cartelas completam na mesma rodada, aparece o botão **🎡 Girar roleta**. A roleta gira com som de tique e para na cartela vencedora, sorteada de forma aleatória.
 - **"Falta 1"**: lista as cartelas a uma palavra de ganhar.
 - **Conferir cartela**: digite o número e veja a grade com as palavras já sorteadas destacadas. Serve para validar quem gritou bingo.
 - **Marcação manual**: para quando o sorteio é feito em papel e o app serve só para conferir.
